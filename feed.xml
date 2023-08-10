@@ -3,21 +3,21 @@
     <title>kopicop</title>
     <link href="https://crabrangoon.github.io/publii/feed.xml" rel="self" />
     <link href="https://crabrangoon.github.io/publii" />
-    <updated>2023-08-10T22:36:34+08:00</updated>
+    <updated>2023-08-10T22:39:33+08:00</updated>
     <author>
         <name>Reggie</name>
     </author>
     <id>https://crabrangoon.github.io/publii</id>
 
     <entry>
-        <title>Title Cool</title>
+        <title>Test</title>
         <author>
             <name>Reggie</name>
         </author>
-        <link href="https://crabrangoon.github.io/publii/title-cool.html"/>
-        <id>https://crabrangoon.github.io/publii/title-cool.html</id>
+        <link href="https://crabrangoon.github.io/publii/test.html"/>
+        <id>https://crabrangoon.github.io/publii/test.html</id>
 
-        <updated>2023-08-10T22:36:34+08:00</updated>
+        <updated>2023-08-10T22:39:33+08:00</updated>
             <summary>
                 <![CDATA[
                     Hello
@@ -25,11 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hello</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://crabrangoon.github.io/publii/media/posts/1/gallery/21mrul77xl191.jpg" data-size="3024x3264"><img loading="lazy" src="https://crabrangoon.github.io/publii/media/posts/1/gallery/21mrul77xl191-thumbnail.jpg" alt="" width="720" height="777"></a></figure>
-<figure class="gallery__item"><a href="https://crabrangoon.github.io/publii/media/posts/1/gallery/f3hc3ok6q8091.jpg" data-size="700x523"><img loading="lazy" src="https://crabrangoon.github.io/publii/media/posts/1/gallery/f3hc3ok6q8091-thumbnail.jpg" alt="" width="700" height="523"></a></figure>
-</div></div>
+                <p>Hello<figure class="post__image"><img loading="lazy"  src="https://crabrangoon.github.io/publii/media/posts/2/f3hc3ok6q8091.jpg" alt="" width="700" height="523" sizes="100vw" srcset="https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-xs.jpg 300w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-sm.jpg 480w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-md.jpg 768w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-lg.jpg 1024w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-xl.jpg 1360w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
