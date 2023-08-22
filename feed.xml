@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hello<figure class="post__image"><img loading="lazy"  src="https://crabrangoon.github.io/publii/media/posts/2/f3hc3ok6q8091.jpg" alt="" width="700" height="523" sizes="100vw" srcset="https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-xs.jpg 300w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-sm.jpg 480w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-md.jpg 768w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-lg.jpg 1024w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-xl.jpg 1360w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-2xl.jpg 1600w"></figure>
+                <p>Hello<figure class="post__image"><img loading="lazy"  src="https://crabrangoon.github.io/publii/media/posts/2/f3hc3ok6q8091.jpg" alt="" width="700" height="523" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-xs.jpg 300w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-sm.jpg 480w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-md.jpg 768w ,https://crabrangoon.github.io/publii/media/posts/2/responsive/f3hc3ok6q8091-lg.jpg 1024w"></figure>
             ]]>
         </content>
     </entry>
